@@ -11,7 +11,7 @@
 > ⚠️ **AVIS LÉGAL - LIRE ATTENTIVEMENT**
 > 🚫 **STRICTEMENT ILLÉGAL SANS AUTORISATION**
 
-**J'ai utilisé l'API PASS REVELATOR, et je les en remercie, pour créer ce programme. Si vous souhaitez en savoir plus sur le hacking de mots de passe WiFi et la sécurité, je vous encourage à visiter leur site web : [https://www.passwordrevelator.net/en/passwifi](https://www.passwordrevelator.net/en/passwifi)**
+**J'ai utilisé l'API PASS REVELATOR, et je les en remercie, pour créer ce programme. Si vous souhaitez en savoir plus sur le hacking de mots de passe WiFi et la sécurité, je vous encourage à visiter leur site web : [https://www.passwordrevelator.net/en/passwifi](https://www.passwordrevelator.net/fr/passwifi)**
 
 ![Texte alternatif](./Hack-WiFi.webp)
 
