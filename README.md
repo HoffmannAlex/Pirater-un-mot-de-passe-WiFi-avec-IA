@@ -1,4 +1,4 @@
-# 🔐 Hack WiFi AI - Solution Complète de Crackage de Mot de Passe WiFi
+# 🔐 Hack WiFi AI - Solution Complète de Crackage de Mot de Passe WiFi 2026
 
 **🚀 Outil d'Évaluation de la Sécurité WiFi Alimenté par l'IA | De Grade Professionnel | 100% Fonctionnel | Usage Éducatif Seulement**
 
